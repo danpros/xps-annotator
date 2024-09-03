@@ -1,4 +1,4 @@
-# XPS Annotator
+# [![XPS Annotator](https://raw.githubusercontent.com/danpros/xps-annotator/main/resources/images/screenshot.jpg)](https://www.xpsdev.com/)
 
 XPS Annotator is an exclusive standalone XPS Viewer, XPS documents annotator, XPS to image converter, XPS documents properties adder and XPS documents digital signer.
 
@@ -10,7 +10,7 @@ XPS Annotator is an exclusive standalone XPS Viewer, XPS documents annotator, XP
 
 Latest release: https://github.com/danpros/xps-annotator/releases/latest
 
-## Sponsors
+## Support
 
 Support this project by becoming a [sponsor](https://github.com/sponsors/danpros)
 
