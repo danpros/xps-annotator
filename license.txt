@@ -1,0 +1,49 @@
+END USER LICENSE AGREEMENT
+==========================
+
+THIS END-USER LICENSE AGREEMENT (LICENSE AGREEMENT) IS A LEGAL AGREEMENT BETWEEN YOU (EITHER AN INDIVIDUAL OR A SINGLE ENTITY) AND DANANG PROBO SAYEKTI. THE PRODUCTS IN THIS LICENSE AGREEMENT INCLUDE COMPUTER APPLICATION SOFTWARE, PRINTED MATERIALS, AND ELECTRONIC DOCUMENTS (THE PRODUCT). BY INSTALLING OR USING THE PRODUCT, YOU AGREE TO BE BOUND ALL TERMS OF THIS LICENSE AGREEMENT LIST BY DANANG PROBO SAYEKTI. PLEASE DO NOT INSTALL OR USE THE PRODUCT, IF YOU DO NOT AGREE ANY TERM OF THIS LICENSE AGREEMENT AS FOLLOW.
+
+
+SOFTWARE PRODUCT:
+=================
+
+Object of this agreement is XPS Annotator (The Product).
+
+
+TERM OF LICENSE AGREEMENT:
+===========================
+
+(1) The Product can be freely used for any personal or can be freely used for educational purposes. For work and business purposes, you are expected to give donations to us for the development of the XPS Annotator itself.
+
+(2) The Product may not be multiplied, processed or disseminated in any way without the written permit of Danang Probo Sayekti. People violating any term of this License Agreement will be prosecuted in every case.
+
+(3) The use of The Product is done at the users's own risk. The developer have no responsibility for any damage, either direct or indirect consequence of the use of The Product.
+
+(4) All copyrights to XPS Annotator are exclusively owned by the author - Danang Probo Sayekti.
+
+
+LIMITATIONS:
+============
+
+(1) No Modifications. You may not modify, adapt or translate The Product. You may not reverse engineer, decompile, disassemble or otherwise attempt to discover the source code of The Product except to the extent you may be expressly permitted under applicable law to decompile only in order to achieve interoperability with The Product.
+
+(2) Users cannot sell, rent, lease, or lend The Product to another parties.
+
+
+DISTRIBUTIONS:
+=============
+
+The Product may be freely distributed, with exceptions noted below, provided the distribution package is not modified in any way.
+
+(1) No person or company may distribute separate parts of The Product package without written permission of the copyright owner.
+
+(2) The Product may not be distributed inside of any other software package without written permission of the copyright owner.
+
+
+TERMINATION:
+============
+
+Danang Probo Sayekti may terminate this License Agreement if users fail to comply with the terms and conditions of this License Agreement. In such event, users have to destroy all copies of The Product and all its component parts.
+
+
+Copyright (c) 2009-2024 Danang Probo Sayekti. All rights reserved.
